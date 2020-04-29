@@ -1,0 +1,11 @@
+{
+  "name": "IHM",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "bcryptjs": "^2.4.3",
+    "debug": "^4.1.1",
+    "socket.io": "^2.3.0",
+    "sqlite3": "^4.2.0"
+  }
+}
